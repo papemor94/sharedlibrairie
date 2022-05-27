@@ -4,7 +4,7 @@ import org.codehaus.groovy.runtime.StackTraceUtils
 class SeleniumTestsParallel {
 	
 	SeleniumTestsParallel(script) {
-		super(script);
+		
 	}
 	
 	def run() {
