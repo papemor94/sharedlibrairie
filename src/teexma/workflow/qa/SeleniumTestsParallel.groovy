@@ -7,7 +7,7 @@ class SeleniumTestsParallel {
 		this._script = script;
 	}
 	def run() {
-      		script.echo " Hello from Selenium";
+      		_script.echo " Hello from Selenium";
   }
   
 }
